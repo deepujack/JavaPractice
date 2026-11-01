@@ -1,4 +1,4 @@
-package Practive;
+package Practice;
 
 public class Practice2 {
 	public int sum (int num1,int num2) {

@@ -1,4 +1,4 @@
-package Practive;
+package Practice;
 
 public class Employee {
 
@@ -18,7 +18,7 @@ public class Employee {
 
 	}
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		// Create a Employe instance/object
@@ -43,6 +43,6 @@ public class Employee {
 		
 		
 
-	}
+	}*/
 
 }
